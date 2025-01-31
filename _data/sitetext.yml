@@ -13,8 +13,8 @@ en: &DEFAULT_EN
   header:
     title:  
     text:  
-    button: More
-    buttonlink: "#services"
+    button: 
+    buttonlink: 
 
   services:
     title: "Services"
@@ -30,43 +30,43 @@ en: &DEFAULT_EN
       - title: "Advanced Analytics"
         desc: "Unlock the power of your data with our analytics and insights services. From data visualization to predictive modeling, we provide actionable insights that empower you to make informed decisions."
         icon: fas fa-chart-line
-      - title: "Project Management"
-        desc: "Effortlessly bring your projects to life with our comprehensive project management solutions. We provide end-to-end support, ensuring that your projects are delivered on time, within scope, and to the highest quality standards."
-        icon: fas fa-compass
+ #     - title: "Project Management"
+ #       desc: "Effortlessly bring your projects to life with our comprehensive project management solutions. We provide end-to-end support, ensuring that your projects are delivered on time, within scope, and to the highest quality standards."
+ #       icon: fas fa-compass
 
   portfolio:
     title: "Portfolio"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    text: "This area of the site is under construction."
     section: portfolio
     closebutton: "Close Project"
 
   timeline:
     title: "Timeline"
-    text: "Lorem ipsum timeline"
+    text: "This area of site is under construction."
     section: timeline
     # left is the default
     #start_align: "left"
     events:
       - title: "Our Humble Beginnings"
-        year: "2009-2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+        year: "2025-current"
+        desc: "TBD"
         image: assets/img/timeline/1.jpg
         alt:
-      - title: "An Agency is Born"
-        year: "March 2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
-        image: assets/img/timeline/2.jpg
-        alt:
-      - title: "Jekyll Theme is created"
-        year: "2019"
-        desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
-        image: assets/img/timeline/3.jpg
-        alt: image alt text
-      - title: "Title"
-        year: "2009-2011"
-        desc: "Your description here, **Markdown** is fully supported."
-        image: assets/img/timeline/4.jpg
-        alt:
+#      - title: "An Agency is Born"
+#        year: "March 2011"
+#        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+#        image: assets/img/timeline/2.jpg
+#        alt:
+#      - title: "Jekyll Theme is created"
+#        year: "2019"
+#        desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
+#        image: assets/img/timeline/3.jpg
+#        alt: image alt text
+#      - title: "Title"
+#        year: "2009-2011"
+#        desc: "Your description here, **Markdown** is fully supported."
+#        image: assets/img/timeline/4.jpg
+#        alt:
         # you can enforce the alignment
         align: right
     end: "Be Part <br> of Our <br> Story!"
@@ -74,7 +74,7 @@ en: &DEFAULT_EN
   about:
     title: "About Us"
     text: "our story"
-    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
+    body: "This area of site is under construction."
     section: about
 
   clients:
@@ -84,24 +84,24 @@ en: &DEFAULT_EN
     list:
       - title: "envato"
         url: 
-        logo: assets/img/clients/envato.jpg
+#        logo: assets/img/clients/envato.jpg
       - title: "designmodo"
         url: 
-        logo: assets/img/clients/designmodo.jpg
+#        logo: assets/img/clients/designmodo.jpg
       - title: "themeforest"
         url: 
-        logo: assets/img/clients/themeforest.jpg
+#        logo: assets/img/clients/themeforest.jpg
       - title: "Creative Market"
         url: 
-        logo: assets/img/clients/creative-market.jpg
+#        logo: assets/img/clients/creative-market.jpg
 
   team:
     title: "OUR AMAZING TEAM"
-    text: "Lorem ipsum dolor sit amet consectetur."
-    subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
+    text: "This area of site is under construction."
+    subtext: This area of site is under construction.
     section: team
     people:
-      - name: "Kay Garland"
+      - name: "TBD"
         role: "Lead Designer"
         image: assets/img/team/500x500.jpg
         social:
@@ -111,7 +111,7 @@ en: &DEFAULT_EN
             icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
-      - name: "Larry Parker"
+      - name: "TBD"
         role: "Lead Marketer"
         image: assets/img/team/500x500.jpg
         social:
@@ -121,7 +121,7 @@ en: &DEFAULT_EN
             icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
-      - name: "Diana Perterson"
+      - name: "TBD"
         role: "Lead Developer"
         image: assets/img/team/500x500.jpg
         social:
