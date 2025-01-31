@@ -11,9 +11,9 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Welcome to Siarconyx!
-    text: Dreams become reality.
-    button: Tell Me More
+    title: 
+    text: 
+    button: Learn More
     buttonlink: "#services"
 
   services:
