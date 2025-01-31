@@ -82,17 +82,17 @@ en: &DEFAULT_EN
     max-height: 100px
     horizontal-scrolling: "" #"yes/no"
     list:
-      - title: "envato"
-        url: 
+#      - title: "envato"
+#        url: 
 #        logo: assets/img/clients/envato.jpg
-      - title: "designmodo"
-        url: 
+#      - title: "designmodo"
+#        url: 
 #        logo: assets/img/clients/designmodo.jpg
-      - title: "themeforest"
-        url: 
+#      - title: "themeforest"
+#        url: 
 #        logo: assets/img/clients/themeforest.jpg
-      - title: "Creative Market"
-        url: 
+#      - title: "Creative Market"
+#        url: 
 #        logo: assets/img/clients/creative-market.jpg
 
   team:

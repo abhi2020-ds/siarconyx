@@ -1,8 +1,8 @@
 ---
 caption: #what displays in the portfolio grid:
-  title: Example
+  title: Project 1
   subtitle: subtitle
-  thumbnail: https://place-hold.it/400x300
+  thumbnail: assets/img/portfolio/04-thumbnail.jpg
   
 #what displays when the item is clicked:
 title: Title
