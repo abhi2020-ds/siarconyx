@@ -13,8 +13,8 @@ en: &DEFAULT_EN
   header:
     title:  
     text:  
-    button: Learn More
-    buttonlink: "#services"
+    button: 
+    buttonlink: 
 
   services:
     title: "Products & Services"
@@ -22,17 +22,17 @@ en: &DEFAULT_EN
     section: services
     list:
       - title: "Kids Book Publishing"
-        desc: "Ignite young imaginations with our enchanting children's books. We specialize in crafting engaging stories, vibrant illustrations, and an interactive AR app that captivate young readers and nurture a lifelong love for reading.We design and develop immersive AR apps that blend the digital and physical worlds seamlessly. Perfect for education, entertainment, or business, our AR applications captivate users and drive meaningful engagement."
+        desc: "Ignite young imaginations with our enchanting children's books. We specialize in crafting engaging stories, vibrant illustrations, and an interactive AR app that captivate young readers and nurture a lifelong love for reading."
         icon: fas fa-book #find more at https://fontawesome.com/icons
       - title: "Website Publishing"
-        desc: "Bring your digital presence to life with our web publishing services. We create dynamic, user-friendly websites and content that align with your vision and brand identity. Whether it’s a personal blog, a corporate site, or an e-commerce platform, our team ensures your online presence stands out and engages your audience."
+        desc: "Bring your digital presence to life with our web publishing services. We create dynamic, user-friendly websites and content that align with your vision and brand identity."
         icon: fas fa-globe
       - title: "Advanced Analytics"
-        desc: "Unlock the power of your data with our analytics and insights services. From data visualization to predictive modeling, we provide actionable insights that empower you to make informed decisions. Our team of experts ensures you’re equipped with the tools and knowledge to stay ahead in a data-driven world."
-        icon: fab fa-magnifying-glass-chart
+        desc: "Unlock the power of your data with our analytics and insights services. From data visualization to predictive modeling, we provide actionable insights that empower you to make informed decisions."
+        icon: fas fa-magnifying-glass-chart
       - title: "Project Management"
-        desc: "Effortlessly bring your projects to life with our comprehensive project management solutions. We provide end-to-end support, ensuring that your projects are delivered on time, within scope, and to the highest quality standards. Whether it’s a small initiative or a large-scale program, we tailor our approach to meet your specific goals."
-        icon: fab fa-bars-progress
+        desc: "Effortlessly bring your projects to life with our comprehensive project management solutions. We provide end-to-end support, ensuring that your projects are delivered on time, within scope, and to the highest quality standards."
+        icon: fas fa-bars-progress
 
   portfolio:
     title: "Portfolio"
