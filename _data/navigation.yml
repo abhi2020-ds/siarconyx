@@ -23,8 +23,7 @@ en: &DEFAULT_EN
       section: team
     - title: "Contact"
       section: contact
-    - title: "Theme Source"
-      url: 
+
 en-US:
   <<: *DEFAULT_EN
 en-CA:
