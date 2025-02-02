@@ -20,9 +20,9 @@ title      : Siarconyx
 email      : contact@siarconyx.com #this is also the email contact forms will go to
 description: "Site Build In Progress"
 author     : Abs
-logo       : logo.jpg
-path       : assets\img
-height     : 52 #height in px, defaults to 52px
+#logo       : logo.jpg
+#path       : assets\img
+#height     : 52 #height in px, defaults to 52px
 
 locale: "en-US" # See available languages in _data/sitetext.yml
 
