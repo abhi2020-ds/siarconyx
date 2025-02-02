@@ -13,8 +13,8 @@ en: &DEFAULT_EN
   header:
     title:  
     text:  
-    button: 
-    buttonlink: 
+    button: Learn More
+    buttonlink: "#services"
 
   services:
     title: "Services"
