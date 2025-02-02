@@ -21,7 +21,7 @@ en: &DEFAULT_EN
     text: "At Siarconyx, we take pride in offering a diverse range of services."
     section: services
     list:
-      - title: "Immersive Kids Books"
+      - title: "Immersive Learning"
         desc: "Ignite young imaginations with our enchanting children's books. We specialize in crafting engaging stories, vibrant illustrations, and an interactive AR app that captivate young readers and nurture a lifelong love for reading."
         icon: fas fa-book #find more at https://fontawesome.com/icons
       - title: "Website Publishing"

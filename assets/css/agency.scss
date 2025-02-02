@@ -17,6 +17,9 @@
 {% endif %}
 
 // Custom colors
+//#3c2144 purple
+//#2dbcda blue
+
 $primary: {{ site.data.style.highlight | default: "#2dbcda" }} !default;
 $white: {{ site.data.style.white | default: "#fff" }} !default;
 $black: {{ site.data.style.black | default: "#000" }} !default;
