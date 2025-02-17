@@ -1,11 +1,11 @@
 ---
-title: Project Threads
+title: Immersive Learning
 subtitle: subtitle lorem ipsum dolor sit amet consectetur.
 image: assets/img/portfolio/05-thumbnail.jpg
 alt: Shirts on a hanger
 
 caption:
-  title: Threads
+  title: Immersive Learning
   subtitle: Illustration
   thumbnail: assets/img/portfolio/05-thumbnail.jpg
 ---

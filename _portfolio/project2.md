@@ -1,5 +1,5 @@
 ---
-title: Project Name
+title: Explore
 subtitle: Lorem ipsum dolor sit amet consectetur.
 image: assets/img/portfolio/06-thumbnail.jpg
 alt: Keep Exploring
