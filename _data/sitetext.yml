@@ -77,11 +77,11 @@ en: &DEFAULT_EN
     body: "This area of site is under construction."
     section: about
 
-  clients:
-    section: clients
-    max-height: 100px
-    horizontal-scrolling: "" #"yes/no"
-    list:
+#  clients:
+#    section: clients
+#    max-height: 100px
+#    horizontal-scrolling: "" #"yes/no"
+#    list:
 #      - title: "envato"
 #        url: 
 #        logo: assets/img/clients/envato.jpg
@@ -95,46 +95,46 @@ en: &DEFAULT_EN
 #        url: 
 #        logo: assets/img/clients/creative-market.jpg
 
-  team:
-    title: "OUR AMAZING TEAM"
-    text: "This area of site is under construction."
-    subtext: This area of site is under construction.
-    section: team
-    people:
-      - name: "TBD"
-        role: "Lead Designer"
-        image: assets/img/team/500x500.jpg
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
-      - name: "TBD"
-        role: "Lead Marketer"
-        image: assets/img/team/500x500.jpg
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
-      - name: "TBD"
-        role: "Lead Developer"
-        image: assets/img/team/500x500.jpg
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
+#  team:
+#    title: "OUR AMAZING TEAM"
+#    text: "This area of site is under construction."
+#    subtext: This area of site is under construction.
+#    section: team
+#    people:
+#      - name: "TBD"
+#        role: "Lead Designer"
+#        image: assets/img/team/500x500.jpg
+#        social:
+#          - url: https://twitter.com
+#            icon: fab fa-twitter
+#          - url: https://facebook.com
+#            icon: fab fa-facebook-f
+#          - url: https://linkedin.com
+#            icon: fab fa-linkedin-in
+#      - name: "TBD"
+#        role: "Lead Marketer"
+#        image: assets/img/team/500x500.jpg
+#        social:
+#          - url: https://twitter.com
+#            icon: fab fa-twitter
+#          - url: https://facebook.com
+#            icon: fab fa-facebook-f
+#          - url: https://linkedin.com
+#            icon: fab fa-linkedin-in
+#      - name: "TBD"
+#        role: "Lead Developer"
+#        image: assets/img/team/500x500.jpg
+#        social:
+#          - url: https://twitter.com
+#            icon: fab fa-twitter
+#          - url: https://facebook.com
+#            icon: fab fa-facebook-f
+#          - url: https://linkedin.com
+#            icon: fab fa-linkedin-in
 
   contact:
     title: "Contact Us"
-    text: "Lorem ipsum or call 123456789"
+    text: "We’d love to hear from you! Whether you have a question, a suggestion, or just want to say hello, drop us a message. We’ll get back to you as soon as possible!"
     section: contact
     name: "Name*"
     name-validation: "Please enter your name."
